@@ -7,8 +7,12 @@ My Graduation Project
   2. Client get photo and send it to server site. Server return result.
 
   3. There are 5 Level Correspond to the .java file which in the Client Project. 
-     The story is 
+     
+GamePlay 
+  Players is a Treasure Hunter. Find the treasure in the real world by Hunter's Phone. 
         Level 1 - Quick Answer 
-        Level 2 - Find Treasure House : use other radar find the right position. 
-        Level 3 - Unlock
-        
+        Level 2 - Find Treasure House : use Hunter's Radar find the right position.
+        Level 3 - Find The Right Door : Get the right photo.
+        Level 4 - Open The Door : Find other hunter at the same level. Match and open tje door together.
+        Level 5 - Unlock Treasure : Be careful to open the treasure.
+        
