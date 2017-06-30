@@ -11,9 +11,9 @@ My Graduation Project
      
 GamePlay 
 Players is a Treasure Hunter. Find the treasure in the real world by Hunter's Phone. 
-Level 1 - Quick Answer 
-Level 2 - Find Treasure House : use Hunter's Radar find the right position.
-Level 3 - Find The Right Door : Get the right photo.
-Level 4 - Open The Door : Find other hunter at the same level. Match and open tje door together.
-Level 5 - Unlock Treasure : Be careful to open the treasure.
+  1. Level 1 - Quick Answer 
+  2. Level 2 - Find Treasure House : use Hunter's Radar find the right position.
+  3. Level 3 - Find The Right Door : Get the right photo.
+  4. Level 4 - Open The Door : Find other hunter at the same level. Match and open tje door together.
+  5. Level 5 - Unlock Treasure : Be careful to open the treasure.
         
