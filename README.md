@@ -9,8 +9,7 @@ My Graduation Project
 
   3. There are 5 Level Correspond to the .java file which in the Client Project. 
      
-GamePlay 
-Players is a Treasure Hunter. Find the treasure in the real world by Hunter's Phone. 
+GamePlay : Players is a Treasure Hunter. Find the treasure in the real world by Hunter's Phone. 
   1. Level 1 - Quick Answer 
   2. Level 2 - Find Treasure House : use Hunter's Radar find the right position.
   3. Level 3 - Find The Right Door : Get the right photo.
